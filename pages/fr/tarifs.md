@@ -17,8 +17,8 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
     <thead>
         <tr>
         <th>Type</th>
-        <th class="price">Tarif hors ménage<sup>*</sup></th>
-        <th>Taxe de séjour<sup>\*\*</sup></th>
+        <th class="price">Tarif hors ménage<sup>(1)</sup></th>
+        <th>Taxe de séjour<sup>(2)</sup></th>
         </tr>
     </thead>
     <tbody>
@@ -45,8 +45,8 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
     </tbody>
     </table>
     <figcaption>
-        <p><sup>*</sup> Un forfait ménage sera appliqué, en sus de ces tarifs, pour chaque séjour (5 € pour une chambre simple, 6 € pour une chambre double et 8 € pour la chambre familiale, en plus des tarifs indiqués ci-dessous.</p>
-        <p><sup>\*\*</sup> Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public ("<a href="https://www.service-public.fr/particuliers/vosdroits/F2048">Qu'est-ce que la taxe de séjour ?</a>").</p>
+        <p><sup>(1)</sup> Un forfait ménage sera appliqué, en sus de ces tarifs, pour chaque séjour (5 € pour une chambre simple, 6 € pour une chambre double et 8 € pour la chambre familiale, en plus des tarifs indiqués ci-dessous.</p>
+        <p><sup>(2)</sup> Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public ("<a href="https://www.service-public.fr/particuliers/vosdroits/F2048">Qu'est-ce que la taxe de séjour ?</a>").</p>
     </figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ Merci de nous préciser, lors de la réservation, toute demande spécifique (rep
                 <td></td>
                 <td>Demi-pension</td>
                 <td>Pension complète</td>
-                <td>Taxe de séjour<sup>\\\\*\\\\*</sup></td>
+                <td>Taxe de séjour<sup>(2)</sup></td>
             </tr>
             <tr>
                 <td>Chambre simple</td>
@@ -118,7 +118,7 @@ Merci de nous préciser, lors de la réservation, toute demande spécifique (rep
                 <td class="price">8.94 €</td>
             </tr>
             <tr>
-                <td>Chambre famille<sup>*</sup></td>
+                <td>Chambre famille<sup>(1)</sup></td>
                 <td class="price">765 €</td>
                 <td class="price">1 055 €</td>
                 <td class="price">13.86 €</td>
@@ -132,8 +132,8 @@ Merci de nous préciser, lors de la réservation, toute demande spécifique (rep
         </tbody>
     </table>
     <figcaption>
-        <p><sup>*</sup> Les tarifs indiqués pour la chambre familiale sont à titre indicatif pour 2 adultes et 2 enfants < 12 ans. Pour toute demande particulière, n'hésitez pas à nous contacter.</p>
-        <p><sup>\\\\*\\\\*</sup> Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public ("<a href="https://www.service-public.fr/particuliers/vosdroits/F2048">Qu'est-ce que la taxe de séjour ?</a>").</p>
+        <p><sup>(1)</sup> Les tarifs indiqués pour la chambre familiale sont à titre indicatif pour 2 adultes et 2 enfants < 12 ans. Pour toute demande particulière, n'hésitez pas à nous contacter.</p>
+        <p><sup>(2)</sup> Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public ("<a href="https://www.service-public.fr/particuliers/vosdroits/F2048">Qu'est-ce que la taxe de séjour ?</a>").</p>
     </figcaption>
 </figure>
 
