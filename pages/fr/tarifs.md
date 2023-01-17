@@ -46,7 +46,7 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
     </table>
     <figcaption>
         <p><sup>*</sup> Un forfait ménage sera appliqué, en sus de ces tarifs, pour chaque séjour (5 € pour une chambre simple, 6 € pour une chambre double et 8 € pour la chambre familiale, en plus des tarifs indiqués ci-dessous.</p>
-        <p><sup>\\\\*\\\\*</sup> Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public ("<a href="https://www.service-public.fr/particuliers/vosdroits/F2048">Qu'est-ce que la taxe de séjour ?</a>").</p>
+        <p><sup>\*\*</sup> Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public ("<a href="https://www.service-public.fr/particuliers/vosdroits/F2048">Qu'est-ce que la taxe de séjour ?</a>").</p>
     </figcaption>
 </figure>
 
