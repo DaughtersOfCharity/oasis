@@ -9,15 +9,11 @@
 /* Le style du header et du menu de navigation */
 
 header {
-  font-family: "Great Vibes";
+  font-family: 'Parisienne', cursive;
   font-size: 3.5rem;
   text-align: center;
   width: 100%;
   margin-bottom: 20px;
-}
-
-header span {
-  letter-spacing: 5px;
 }
 
 header a,
@@ -72,7 +68,7 @@ header a,
 } */
 
 .menu a {
-  font-family: "Gabriela";
+  font-family: "Imprima", sans-serif;
   font-size: 1rem;
   text-decoration: none;
   letter-spacing: 1px;
@@ -105,7 +101,7 @@ header a,
 }
 
 body {
-  font-family: "Merriweather", "Arial";
+  font-family: "Imprima", sans-serif;
   font-size: 0.9rem;
   margin: 0px;
   color: black;
@@ -138,7 +134,7 @@ body {
 }
 
 h1 {
-  font-family: "Gabriela";
+  font-family: "Imprima", sans-serif;
   font-size: 1.5rem;
   text-align: center;
 }
