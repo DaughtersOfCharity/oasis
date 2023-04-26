@@ -6,6 +6,10 @@
   text-rendering: optimizeLegibility;
 }
 
+html {
+  font-size: 18px;
+}
+
 /* Le style du header et du menu de navigation */
 
 header {
