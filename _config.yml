@@ -54,7 +54,7 @@ defaults:
 # Images RWD
 cloudinary:
   origin_url: https://oasis.maisonstvincent.fr
-  cloud_name: oasis-st-vincent
+  cloud_name: st-vincent
   presets:
     default:
       min_width: 320
