@@ -25,17 +25,17 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
         <tr>
         <td>Chambre simple et petit-déjeuner</td>
         <td class="price">38 €</td>
-        <td>0.99 €</td>
+        <td>0,99 €</td>
         </tr>
         <tr>
         <td>Chambre double et petits-déjeuners</td>
         <td class="price">61 €</td>
-        <td>1.49 €</td>
+        <td>1,49 €</td>
         </tr>
         <tr>
         <td>Chambre familiale et petits-déjeuners</td>
         <td class="price">96 €</td>
-        <td>2.31 €</td>
+        <td>2,31 €</td>
         </tr>
         <tr>
         <td>Lit d’appoint (enfant &lt; 12 ans) et petit-déjeuner</td>
