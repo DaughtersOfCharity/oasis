@@ -4,7 +4,7 @@ title: Tarifs et réservation
 i18n-key: booking
 permalink: /tarifs
 ---
-# Tarifs 2023 et réservation
+# Tarifs 2024 et réservation
 
 **L'établissement n'accepte pas les cartes bleues.**
 
@@ -24,18 +24,18 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
     <tbody>
         <tr>
         <td>Chambre simple et petit-déjeuner</td>
-        <td class="price">38 €</td>
-        <td>0,99 €</td>
+        <td class="price">40 €</td>
+        <td>1,06 €</td>
         </tr>
         <tr>
         <td>Chambre double et petits-déjeuners</td>
-        <td class="price">61 €</td>
-        <td>1,49 €</td>
+        <td class="price">65 €</td>
+        <td>1,62 €</td>
         </tr>
         <tr>
         <td>Chambre familiale et petits-déjeuners</td>
-        <td class="price">96 €</td>
-        <td>2,31 €</td>
+        <td class="price">100 €</td>
+        <td>2,44 €</td>
         </tr>
         <tr>
         <td>Lit d’appoint (enfant &lt; 12 ans) et petit-déjeuner</td>
@@ -67,22 +67,22 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
 <tbody>
     <tr>
     <td>Déjeuner</td>
-    <td class="price">15 €</td>
-    <td class="price">12 €</td>
+    <td class="price">17 €</td>
+    <td class="price">14 €</td>
     </tr>
     <tr>
     <td>Dîner</td>
-    <td class="price">12 €</td>
+    <td class="price">14 €</td>
     <td class="price">10 €</td>
     </tr>
     <tr>
     <td>Pique-nique</td>
-    <td class="price">12 €</td>
+    <td class="price">14 €</td>
     <td class="price">10 €</td>
     </tr>
     <tr>
     <td>Pause café</td>
-    <td colspan="2" class="price">2 €</td>
+    <td colspan="2" class="price">2,50 €</td>
     </tr>
 </tbody>
 </table>
@@ -107,27 +107,27 @@ Merci de nous préciser, lors de la réservation, toute demande spécifique (rep
             </tr>
             <tr>
                 <td>Chambre simple</td>
-                <td class="price">270 €</td>
-                <td class="price">355 €</td>
-                <td class="price">5.94 €</td>
+                <td class="price">292 €</td>
+                <td class="price">367 €</td>
+                <td class="price">6.36 €</td>
             </tr>
             <tr>
                 <td>Chambre double</td>
-                <td class="price">460 €</td>
-                <td class="price">625 €</td>
-                <td class="price">8.94 €</td>
+                <td class="price">502 €</td>
+                <td class="price">686 €</td>
+                <td class="price">9.72 €</td>
             </tr>
             <tr>
                 <td>Chambre famille<sup>(1)</sup></td>
-                <td class="price">765 €</td>
-                <td class="price">1 055 €</td>
-                <td class="price">13.86 €</td>
+                <td class="price">778 €</td>
+                <td class="price">1 112 €</td>
+                <td class="price">14.65 €</td>
             </tr>
             <tr>
                 <td>Lit d'appoint (enfant < 12 ans)</td>
-                <td class="price">160 €</td>
-                <td class="price">225 €</td>
-                <td class="price"> - </td>
+                <td class="price">20 €</td>
+                <td class="price">162 €</td>
+                <td class="price">238 €</td>
             </tr>
         </tbody>
     </table>

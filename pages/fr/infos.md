@@ -8,7 +8,7 @@ permalink: /infos
 
 ## Moyens de paiement
 
-L'établissement accepte les règlements en fin de séjour (liquide, chèque) ou par virement (avant le début du séjour). **Les cartes bancaires ne sont pas acceptées.**
+L'établissement accepte les règlements en fin de séjour (espèce, chèque) ou par virement (avant le début du séjour). **Les cartes bancaires ne sont pas acceptées.**
 
 ## Comment venir ?
 
