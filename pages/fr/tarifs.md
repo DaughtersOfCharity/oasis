@@ -4,9 +4,9 @@ title: Tarifs et réservation
 i18n-key: booking
 permalink: /tarifs
 ---
-# Tarifs 2024 et réservation
+# Tarifs 2026 et réservation
 
-**L'établissement n'accepte pas les cartes bleues.**
+**L'établissement accepte les cartes bleues.**
 
 ## Nuitées
 
@@ -24,28 +24,28 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
     <tbody>
         <tr>
         <td>Chambre simple et petit-déjeuner</td>
-        <td class="price">40 €</td>
-        <td>1,06 €</td>
+        <td class="price">45 €</td>
+        <td>2,48 €</td>
         </tr>
         <tr>
         <td>Chambre double et petits-déjeuners</td>
-        <td class="price">65 €</td>
-        <td>1,62 €</td>
+        <td class="price">70 €</td>
+        <td>3,86 €</td>
         </tr>
         <tr>
         <td>Chambre familiale et petits-déjeuners</td>
-        <td class="price">100 €</td>
-        <td>2,44 €</td>
+        <td class="price">130 €</td>
+        <td>4,95 €</td>
         </tr>
         <tr>
         <td>Lit d’appoint (enfant &lt; 12 ans) et petit-déjeuner</td>
-        <td class="price">20 €</td>
+        <td class="price">22 €</td>
         <td> - </td>
         </tr>
     </tbody>
     </table>
     <figcaption>
-        <p><sup>(1)</sup> Un forfait ménage sera appliqué, en sus de ces tarifs, pour chaque séjour (5 € pour une chambre simple, 6 € pour une chambre double et 8 € pour la chambre familiale, en plus des tarifs indiqués ci-dessous.</p>
+        <p><sup>(1)</sup> Un forfait ménage sera appliqué, en sus de ces tarifs, pour chaque séjour (6 € pour une chambre simple, 7 € pour une chambre double et 9 € pour la chambre familiale, en plus des tarifs indiqués ci-dessous.</p>
         <p><sup>(2)</sup> Ces tarifs sont donnés à titre indicatifs et sont susceptibles d'évoluer en fonction de la réglementation en vigueur au moment de votre séjour. Vous pouvez trouver les conditions d'exonération de la taxe de séjour sur le site du Service Public ("<a href="https://www.service-public.fr/particuliers/vosdroits/F2048">Qu'est-ce que la taxe de séjour ?</a>").</p>
     </figcaption>
 </figure>
@@ -67,18 +67,18 @@ Notre établissement est composé de 20 chambres simples, 6 chambres doubles et 
 <tbody>
     <tr>
     <td>Déjeuner</td>
-    <td class="price">17 €</td>
-    <td class="price">14 €</td>
+    <td class="price">18 €</td>
+    <td class="price">15 €</td>
     </tr>
     <tr>
     <td>Dîner</td>
-    <td class="price">14 €</td>
-    <td class="price">10 €</td>
+    <td class="price">15 €</td>
+    <td class="price">11 €</td>
     </tr>
     <tr>
     <td>Pique-nique</td>
-    <td class="price">14 €</td>
-    <td class="price">10 €</td>
+    <td class="price">12 €</td>
+    <td class="price">11 €</td>
     </tr>
     <tr>
     <td>Pause café</td>
@@ -95,7 +95,7 @@ Merci de nous préciser, lors de la réservation, toute demande spécifique (rep
     <table>
         <thead>
             <tr>
-                <th colspan="5">Semaine (6 nuits - 7 jours)</th>
+                <th colspan="5">à partir de 3 jours</th>
             </tr>
         </thead>
         <tbody>
@@ -107,27 +107,27 @@ Merci de nous préciser, lors de la réservation, toute demande spécifique (rep
             </tr>
             <tr>
                 <td>Chambre simple</td>
-                <td class="price">292 €</td>
-                <td class="price">367 €</td>
-                <td class="price">6.36 €</td>
+                <td class="price">57 €/jour</td>
+                <td class="price">70 €/jour</td>
+                <td class="price">2.48/jour €</td>
             </tr>
             <tr>
                 <td>Chambre double</td>
-                <td class="price">502 €</td>
-                <td class="price">686 €</td>
-                <td class="price">9.72 €</td>
+                <td class="price">90 €/jour</td>
+                <td class="price">125 €/jour</td>
+                <td class="price">3.86 €/jour</td>
             </tr>
             <tr>
                 <td>Chambre famille<sup>(1)</sup></td>
-                <td class="price">778 €</td>
-                <td class="price">1 112 €</td>
-                <td class="price">14.65 €</td>
+                <td class="price">165 €/jour</td>
+                <td class="price">225 €/jour</td>
+                <td class="price">4.95 €/jour</td>
             </tr>
             <tr>
                 <td>Lit d'appoint (enfant < 12 ans)</td>
-                <td class="price">20 €</td>
-                <td class="price">162 €</td>
-                <td class="price">238 €</td>
+                <td class="price">22 €</td>
+                <td class="price">35 €/jour</td>
+                <td class="price">45 €/jour</td>
             </tr>
         </tbody>
     </table>
