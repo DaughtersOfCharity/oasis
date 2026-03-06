@@ -6,7 +6,7 @@ permalink: /tarifs
 ---
 # Tarifs 2026 et réservation
 
-**L'établissement accepte les cartes bleues.**
+**L'établissement accepte les cartes bleues**
 
 ## Nuitées
 
